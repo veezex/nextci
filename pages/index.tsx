@@ -8,7 +8,7 @@ const Home: React.FC = () => {
                 <title>Simple url shortener</title>
             </Head>
 
-            text
+            <h1>Add the link</h1>
         </div>
     )
 }
